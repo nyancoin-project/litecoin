@@ -1,3 +1,8 @@
+Fork of litecoin core: https://github.com/litecoin-project/litecoin
+
+This fork in early development and can be unstable. If you're not sure about what're you doing here, visit litecoin repo instead.
+
+
 Litecoin Core integration/staging tree
 =====================================
 
